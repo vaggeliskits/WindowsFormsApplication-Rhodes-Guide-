@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B3A71BC5-C76E-4A7D-884C-B8C0455CD7C1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="akropoli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="akropoli.Designer.cs">
+      <DependentUpon>akropoli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aksiotheata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aksiotheata.Designer.cs">
+      <DependentUpon>aksiotheata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="antoni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="antoni.Designer.cs">
+      <DependentUpon>antoni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chek_textbox.cs" />
+    <Compile Include="chinese.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chinese.Designer.cs">
+      <DependentUpon>chinese.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ekdiloseis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ekdiloseis.Designer.cs">
+      <DependentUpon>ekdiloseis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emfanisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emfanisi.Designer.cs">
+      <DependentUpon>emfanisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enidrio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enidrio.Designer.cs">
+      <DependentUpon>enidrio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="estiatoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="estiatoria.Designer.cs">
+      <DependentUpon>estiatoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="faliraki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="faliraki.Designer.cs">
+      <DependentUpon>faliraki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Greek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Greek.Designer.cs">
+      <DependentUpon>Greek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="history.cs" />
+    <Compile Include="italian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="italian.Designer.cs">
+      <DependentUpon>italian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kalithea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kalithea.Designer.cs">
+      <DependentUpon>kalithea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kratisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kratisi.Designer.cs">
+      <DependentUpon>kratisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="music.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="paliapoli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paliapoli.Designer.cs">
+      <DependentUpon>paliapoli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paralies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paralies.Designer.cs">
+      <DependentUpon>paralies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="petaloudes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="petaloudes.Designer.cs">
+      <DependentUpon>petaloudes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register.Designer.cs">
+      <DependentUpon>register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sxolia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sxolia.Designer.cs">
+      <DependentUpon>sxolia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tsampika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tsampika.Designer.cs">
+      <DependentUpon>tsampika.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="akropoli.resx">
+      <DependentUpon>akropoli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aksiotheata.resx">
+      <DependentUpon>aksiotheata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="antoni.resx">
+      <DependentUpon>antoni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chinese.resx">
+      <DependentUpon>chinese.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ekdiloseis.resx">
+      <DependentUpon>ekdiloseis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emfanisi.resx">
+      <DependentUpon>emfanisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enidrio.resx">
+      <DependentUpon>enidrio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="estiatoria.resx">
+      <DependentUpon>estiatoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faliraki.resx">
+      <DependentUpon>faliraki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Greek.resx">
+      <DependentUpon>Greek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="italian.resx">
+      <DependentUpon>italian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kalithea.resx">
+      <DependentUpon>kalithea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kratisi.resx">
+      <DependentUpon>kratisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.akropoli.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.aksiotheata.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.antoni.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.chinese.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.ekdiloseis.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.emfanisi.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.enidrio.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.estiatoria.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.faliraki.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.Form1.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.Form2.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.Greek.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.italian.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.kalithea.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.kratisi.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.paliapoli.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.paralies.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.petaloudes.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.sxolia.resources" />
+    <EmbeddedResource Include="obj\Release\WindowsFormsApplication1.tsampika.resources" />
+    <EmbeddedResource Include="paliapoli.resx">
+      <DependentUpon>paliapoli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paralies.resx">
+      <DependentUpon>paralies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="petaloudes.resx">
+      <DependentUpon>petaloudes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="register.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sxolia.resx">
+      <DependentUpon>sxolia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tsampika.resx">
+      <DependentUpon>tsampika.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\Database1.ldb" />
+    <None Include="bin\Debug\WindowsFormsApplication1.exe.config" />
+    <None Include="bin\Debug\WindowsFormsApplication1.vshost.exe.config" />
+    <None Include="bin\Debug\WindowsFormsApplication1.vshost.exe.manifest" />
+    <None Include="bin\Release\WindowsFormsApplication1.exe.config" />
+    <None Include="bin\Release\WindowsFormsApplication1.vshost.exe.config" />
+    <None Include="bin\Release\WindowsFormsApplication1.vshost.exe.manifest" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache" />
+    <None Include="obj\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo3.jpg" />
+    <None Include="Resources\logo1.jpg" />
+    <None Include="Resources\logo0.jpg" />
+    <Content Include="bin\Debug\AxInterop.WMPLib.dll" />
+    <Content Include="bin\Debug\Database1-DESKTOP-AFQTGF8.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Database1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Interop.WMPLib.dll" />
+    <Content Include="bin\Debug\videos\akropoli.mp4" />
+    <Content Include="bin\Debug\videos\antoni.mp4" />
+    <Content Include="bin\Debug\videos\enidrio.mp4" />
+    <Content Include="bin\Debug\videos\faliraki.mp4" />
+    <Content Include="bin\Debug\videos\kalithea.mp4" />
+    <Content Include="bin\Debug\videos\palia_poli.mp4" />
+    <Content Include="bin\Debug\videos\petaloudes.mp4" />
+    <Content Include="bin\Debug\videos\tsampika.mp4" />
+    <Content Include="bin\Debug\WindowsFormsApplication1-DESKTOP-AFQTGF8.exe" />
+    <Content Include="bin\Debug\WindowsFormsApplication1-DESKTOP-AFQTGF8.pdb" />
+    <Content Include="bin\Debug\WindowsFormsApplication1.exe" />
+    <Content Include="bin\Debug\WindowsFormsApplication1.pdb" />
+    <Content Include="bin\Debug\WindowsFormsApplication1.vshost.exe" />
+    <Content Include="bin\Release\AxInterop.WMPLib.dll" />
+    <Content Include="bin\Release\Interop.WMPLib.dll" />
+    <Content Include="bin\Release\WindowsFormsApplication1.exe" />
+    <Content Include="bin\Release\WindowsFormsApplication1.pdb" />
+    <Content Include="bin\Release\WindowsFormsApplication1.vshost.exe" />
+    <Content Include="obj\Release\AxInterop.WMPLib.dll" />
+    <Content Include="obj\Release\Interop.WMPLib.dll" />
+    <Content Include="obj\Release\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Release\WindowsFormsApplication1.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\WindowsFormsApplication1.exe" />
+    <Content Include="obj\Release\WindowsFormsApplication1.pdb" />
+    <Content Include="Resources\music_off.png" />
+    <Content Include="Resources\music_on.png" />
+    <None Include="Resources\play.jpg" />
+    <None Include="Resources\pause.jpg" />
+    <None Include="Resources\stop.jpg" />
+    <Content Include="rodos_images\1.jpg" />
+    <Content Include="rodos_images\akropoli\logo0.jpg" />
+    <Content Include="rodos_images\akropoli\logo1.jpg" />
+    <Content Include="rodos_images\akropoli\logo2.jpg" />
+    <Content Include="rodos_images\akropoli\logo3.jpg" />
+    <Content Include="rodos_images\akropoli\logo4.jpg" />
+    <Content Include="rodos_images\akropoli\logo5.jpg" />
+    <None Include="rodos_images\aks%281200px%29low quality.jpg" />
+    <Content Include="rodos_images\aks.jpg" />
+    <Content Include="rodos_images\aksio.jpg" />
+    <Content Include="rodos_images\aksiotheato.jpg" />
+    <Content Include="rodos_images\back.png" />
+    <Content Include="rodos_images\chinese\1.jpg" />
+    <Content Include="rodos_images\chinese\akis-petretzikis-mosxaraki-sth-gastra-me-dumplings.jpg" />
+    <Content Include="rodos_images\chinese\Νούντλς-με-κάρυ.jpg" />
+    <Content Include="rodos_images\chinese\Χωρίς τίτλο.jpg" />
+    <Content Include="rodos_images\click.png" />
+    <Content Include="rodos_images\download.jpg" />
+    <Content Include="rodos_images\ekdiloseis\jazz.jpg" />
+    <Content Include="rodos_images\enidrio\logo0.jpg" />
+    <Content Include="rodos_images\enidrio\logo1.jpg" />
+    <Content Include="rodos_images\enidrio\logo2.jpg" />
+    <Content Include="rodos_images\enidrio\logo3.jpg" />
+    <Content Include="rodos_images\enidrio\logo4.jpg" />
+    <Content Include="rodos_images\enidrio\logo5.jpg" />
+    <Content Include="rodos_images\estiatorio.jpg" />
+    <Content Include="rodos_images\estiatorio\bonsai.jpg" />
+    <Content Include="rodos_images\estiatorio\palazzo.jpg" />
+    <Content Include="rodos_images\estiatorio\vila.jpg" />
+    <Content Include="rodos_images\greek\astakos.jpg" />
+    <Content Include="rodos_images\greek\mousakas.jpg" />
+    <Content Include="rodos_images\greek\Paidakia.jpg" />
+    <Content Include="rodos_images\greek\xartis.jpg" />
+    <Content Include="rodos_images\icon_27_one_finger_click-256.png" />
+    <Content Include="rodos_images\images.jpg" />
+    <Content Include="rodos_images\italian\1.jpg" />
+    <None Include="rodos_images\italian\pesto-2.jpg" />
+    <Content Include="rodos_images\italian\Alto-Pizza.jpg" />
+    <Content Include="rodos_images\italian\maps.jpg" />
+    <Content Include="rodos_images\logo1.jpg" />
+    <Content Include="rodos_images\logo2.jpg" />
+    <None Include="rodos_images\logo3%281200 px%29low quality.jpg" />
+    <Content Include="rodos_images\logo3.jpg" />
+    <None Include="rodos_images\logo4%281200x500%29low quality.jpg" />
+    <Content Include="rodos_images\logo4.jpg" />
+    <Content Include="rodos_images\logo5.jpg" />
+    <Content Include="rodos_images\logo6.jpg" />
+    <Content Include="rodos_images\palia_poli\logo0.jpg" />
+    <Content Include="rodos_images\palia_poli\logo1.jpg" />
+    <Content Include="rodos_images\palia_poli\logo2.jpg" />
+    <Content Include="rodos_images\palia_poli\logo3.jpg" />
+    <Content Include="rodos_images\palia_poli\logo4.jpg" />
+    <Content Include="rodos_images\palia_poli\logo5.jpg" />
+    <Content Include="rodos_images\paralies\1.jpg" />
+    <Content Include="rodos_images\paralies\54206700.jpg" />
+    <Content Include="rodos_images\paralies\antoni\logo0.jpg" />
+    <Content Include="rodos_images\paralies\antoni\logo1.jpg" />
+    <Content Include="rodos_images\paralies\antoni\logo2.jpg" />
+    <Content Include="rodos_images\paralies\antoni\logo3.jpg" />
+    <Content Include="rodos_images\paralies\antoni\logo4.jpg" />
+    <Content Include="rodos_images\paralies\antoni\logo5.jpg" />
+    <Content Include="rodos_images\paralies\faliraki\logo0.jpg" />
+    <Content Include="rodos_images\paralies\faliraki\logo1.jpg" />
+    <Content Include="rodos_images\paralies\faliraki\logo2.jpg" />
+    <Content Include="rodos_images\paralies\faliraki\logo3.jpg" />
+    <Content Include="rodos_images\paralies\faliraki\logo4.jpg" />
+    <Content Include="rodos_images\paralies\faliraki\logo5.jpg" />
+    <Content Include="rodos_images\paralies\kalithea\logo0.JPG" />
+    <Content Include="rodos_images\paralies\kalithea\logo1.jpg" />
+    <Content Include="rodos_images\paralies\kalithea\logo2.jpg" />
+    <Content Include="rodos_images\paralies\kalithea\logo3.jpg" />
+    <Content Include="rodos_images\paralies\kalithea\logo4.jpg" />
+    <Content Include="rodos_images\paralies\kalithea\logo5.jpg" />
+    <Content Include="rodos_images\paralies\Kallithea_6_2015_08_31.jpg" />
+    <Content Include="rodos_images\paralies\Kallithea_7_2015_08_31.jpg" />
+    <Content Include="rodos_images\paralies\shutterstock_150501806-Rodos-paralia-Tsampika_ leoks.jpg" />
+    <Content Include="rodos_images\paralies\tsampika\logo0.jpg" />
+    <Content Include="rodos_images\paralies\tsampika\logo1.jpg" />
+    <Content Include="rodos_images\paralies\tsampika\logo2.jpg" />
+    <Content Include="rodos_images\paralies\tsampika\logo3.JPG" />
+    <Content Include="rodos_images\paralies\tsampika\logo4.jpg" />
+    <Content Include="rodos_images\paralies\tsampika\logo5.JPG" />
+    <Content Include="rodos_images\paralies\αρχείο λήψης.jpg" />
+    <Content Include="rodos_images\parastasi.png" />
+    <None Include="rodos_images\petaloudes\logo0.jpg" />
+    <None Include="rodos_images\petaloudes\logo1.jpg" />
+    <None Include="rodos_images\petaloudes\logo3.jpg" />
+    <None Include="rodos_images\petaloudes\logo4.jpg" />
+    <Content Include="rodos_images\rodos.jpg" />
+    <Content Include="rodos_images\rodos1.jpg" />
+    <Content Include="rodos_images\rodos2.jpg" />
+    <Content Include="rodos_images\rodosenydreio.jpg" />
+    <Content Include="rodos_images\top10-Greek-beaches1.jpg" />
+    <Content Include="rodos_images\video\Charlie_bit_me_22-12-2014_00-47.mp4" />
+    <Content Include="sound\music.wav" />
+    <Content Include="txt_file\akropoli.txt" />
+    <Content Include="txt_file\antoni.txt" />
+    <Content Include="txt_file\ekdilosi1.txt" />
+    <Content Include="txt_file\ekdilosi2.txt" />
+    <Content Include="txt_file\enidrio.txt" />
+    <Content Include="txt_file\faliraki.txt" />
+    <Content Include="txt_file\file.txt" />
+    <Content Include="txt_file\kalithea.txt" />
+    <Content Include="txt_file\petaloudes.txt" />
+    <Content Include="txt_file\tsampika.txt" />
+    <Content Include="video\1.mp4" />
+    <Content Include="video\akropoli.mp4" />
+    <Content Include="video\antoni.mp4" />
+    <Content Include="video\enidrio.mp4" />
+    <Content Include="video\faliraki.mp4" />
+    <Content Include="video\kalithea.mp4" />
+    <Content Include="video\petaloudes.mp4" />
+    <Content Include="video\tsampika.mp4" />
+    <Content Include="video\video.mp4" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,260 @@
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vaggelis\Desktop\Lexar\Android\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aksiotheata.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paliapoli.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.enidrio.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.akropoli.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.petaloudes.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paralies.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kalithea.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.faliraki.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.antoni.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tsampika.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estiatoria.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Greek.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kratisi.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.chinese.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.italian.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekdiloseis.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.akropoli.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aksiotheata.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.antoni.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.chinese.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekdiloseis.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.enidrio.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estiatoria.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.faliraki.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Greek.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.italian.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kalithea.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kratisi.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paliapoli.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paralies.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.petaloudes.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tsampika.resources
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\vaggelis\Dropbox\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sxolia.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sxolia.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.emfanisi.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.akropoli.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aksiotheata.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.antoni.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.chinese.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekdiloseis.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.emfanisi.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.enidrio.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estiatoria.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.faliraki.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Greek.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.italian.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kalithea.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kratisi.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paliapoli.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paralies.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.petaloudes.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sxolia.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tsampika.resources
+C:\Users\vaggelis\Desktop\taxia_anaptiksi_douleuei\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.akropoli.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aksiotheata.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.antoni.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.chinese.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekdiloseis.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.emfanisi.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.enidrio.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estiatoria.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.faliraki.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Greek.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.italian.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kalithea.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kratisi.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paliapoli.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paralies.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.petaloudes.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sxolia.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tsampika.resources
+C:\Users\vaggelis\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.akropoli.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aksiotheata.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.antoni.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.chinese.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekdiloseis.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.emfanisi.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.enidrio.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estiatoria.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.faliraki.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Greek.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.italian.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kalithea.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kratisi.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paliapoli.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paralies.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.petaloudes.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sxolia.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tsampika.resources
+C:\Users\dell\Desktop\TEST_taxia_anaptiksi\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.akropoli.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aksiotheata.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.antoni.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.chinese.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekdiloseis.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.emfanisi.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.enidrio.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estiatoria.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.faliraki.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Greek.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.italian.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kalithea.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kratisi.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paliapoli.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paralies.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.petaloudes.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.register.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sxolia.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tsampika.resources
+C:\Users\dell\Desktop\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dell\OneDrive\Hraklis-Vaggelis\TEST_taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\OneDrive\Hraklis-Vaggelis\TEST_taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\OneDrive\Hraklis-Vaggelis\TEST_taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\OneDrive\Hraklis-Vaggelis\TEST_taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\dell\OneDrive\Hraklis-Vaggelis\TEST_taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\OneDrive\Hraklis-Vaggelis\TEST_taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Database1-DESKTOP-AFQTGF8.mdb
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\bin\Debug\Database1.mdb
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.akropoli.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aksiotheata.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.antoni.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.chinese.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ekdiloseis.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.emfanisi.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.enidrio.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.estiatoria.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.faliraki.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Greek.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.italian.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kalithea.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.kratisi.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paliapoli.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.paralies.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.petaloudes.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.register.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sxolia.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tsampika.resources
+C:\Users\vaggelis\Desktop\Teliko_Taxia_anaptiksi\Rhodes Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
